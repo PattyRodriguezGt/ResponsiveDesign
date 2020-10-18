@@ -1,2 +1,2 @@
 # ResponsiveDesign
-Ejercicios de css para disenio responsive
+Ejercicios de css para diseño responsive
